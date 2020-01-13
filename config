@@ -1,5 +1,5 @@
-DATA_PATH := /home/richard/atm2019/Data
-GBM_RES := /home/richard/atm2019/Data
+DATA_PATH := ./Data
+GBM_RES := ./Data
 
 MODELS := DH8D CRJ9 A319 A321 A320 A332 B737 B738 B77W E190 E195
 XVAR := abcdeimopstz
